@@ -1,0 +1,106 @@
+{
+  "files": 20,
+  "bytes": 22420646,
+  "inventory": [
+    {
+      "path": "/i18n/en.json",
+      "bytes": 155323,
+      "sha256": "1a1ae231611054f3a65886c29ec4f0a3b84eb465cd204fced58442e1b4e3f168"
+    },
+    {
+      "path": "/i18n/ja.json",
+      "bytes": 180919,
+      "sha256": "c770b5b23a7c0dfefe97e0c4cf3166a65a3cdb86578e1f66930920bcd4eceaad"
+    },
+    {
+      "path": "/i18n/ko.json",
+      "bytes": 173666,
+      "sha256": "342e873a4f8e2938c20ba74bdde3c6588ce169754b86c34398bd84e0d92a998a"
+    },
+    {
+      "path": "/i18n/zh-TW.json",
+      "bytes": 148574,
+      "sha256": "836fa758d5772a35ee86e281d575cb22218fbe7d0b39d6ee8f8142488bb6e120"
+    },
+    {
+      "path": "/i18n/ko/compiled.json",
+      "bytes": 2611401,
+      "sha256": "953c812cc1574f060117e6bf4f5ffb91b5535594a0390ee9592c92896846b8d0"
+    },
+    {
+      "path": "/i18n/ko/data.json",
+      "bytes": 1423602,
+      "sha256": "dcb923aa59b5acd9b2628423eabf310b6bbbd4aef922c18e87a7a84ba33b53b9"
+    },
+    {
+      "path": "/i18n/ko/ko.css",
+      "bytes": 826,
+      "sha256": "8eb121c4a526351dcec469f1ef2326e671cc5f7bc3a5b5d8adb9983d2387300d"
+    },
+    {
+      "path": "/i18n/ko/manual.json",
+      "bytes": 83388,
+      "sha256": "e4bd7e6e6ea16a4dc747fe6b5ff451f5b19096dd4c5c39ddf0227594d220a0f2"
+    },
+    {
+      "path": "/i18n/ko/official.json",
+      "bytes": 160302,
+      "sha256": "09048b071ee5b4121d5fa675e5f38da814142392573c7da466e19c41691b3a0f"
+    },
+    {
+      "path": "/i18n/ko/patterns.json",
+      "bytes": 4032,
+      "sha256": "c57bfc2cbef87f90e44933433c425ad6514a2c14a9e2d66cb6ba929552bf5d1a"
+    },
+    {
+      "path": "/i18n/ko/ui.json",
+      "bytes": 61848,
+      "sha256": "84b2997da946ac50dfe03cab81f79551c3fd1bf2207e07be5170a4c18cdf2e6c"
+    },
+    {
+      "path": "/i18n/ko/audit.json",
+      "bytes": 662579,
+      "sha256": "7676b91e8eb57aaebeadb8c1f926b7f68dacb8854fe1a2a635b6ab65d1b43cfc"
+    },
+    {
+      "path": "/i18n/zh/audit.json",
+      "bytes": 955049,
+      "sha256": "a984fa17162df254323b784c89d7e4d1bdffbe82ec10a416eec285556fc346cc"
+    },
+    {
+      "path": "/i18n/zh/fork.json",
+      "bytes": 168820,
+      "sha256": "298daa102f867d7ab4f9872e08067690ffb673e5907b0ee91d3bd017f6841ae5"
+    },
+    {
+      "path": "/i18n/en/audit.json",
+      "bytes": 3177127,
+      "sha256": "848189c550dc296065a267c234eb9b19acc7d8b45851ac5d94166db8306155e4"
+    },
+    {
+      "path": "/i18n/en/fork.json",
+      "bytes": 174163,
+      "sha256": "01e02e98b1c32d35903f4f84ed568b8658304c7a5855a9830cbc9e951684a7ab"
+    },
+    {
+      "path": "/i18n/en/data.json",
+      "bytes": 4025174,
+      "sha256": "5d04b014deaeb9cfc547997b586f5e383b2920d1ac8c73118cf550e35aaec490"
+    },
+    {
+      "path": "/i18n/ja/audit.json",
+      "bytes": 3457620,
+      "sha256": "9b4a7597ec157f9fb3de6baba0ea9d920f27cbaebfd7b89db10ec522c6d55755"
+    },
+    {
+      "path": "/i18n/ja/fork.json",
+      "bytes": 189355,
+      "sha256": "722ff9cfdd671fc753db4aff8e130116f9f6dd9d5ee11f730c454c04f9bd3746"
+    },
+    {
+      "path": "/i18n/ja/data.json",
+      "bytes": 4606878,
+      "sha256": "73cf521c392865662db8920da8e2c3986e136c10d8cdfeedec01808edddd7ea5"
+    }
+  ]
+}
