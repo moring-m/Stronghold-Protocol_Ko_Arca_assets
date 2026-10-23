@@ -1,6 +1,6 @@
 {
-  "files": 26395,
-  "bytes": 703503019,
+  "files": 26433,
+  "bytes": 704258554,
   "missing": [],
   "inventory": [
     {
@@ -1926,7 +1926,7 @@
     {
       "path": "/assets/local/fx/index.json",
       "bytes": 10290938,
-      "sha256": "bb3f316eb5ac6b4dff5f6ec3d3887615295d8f3017a888c47c69f7983d79bf53"
+      "sha256": "56556ea0e2308bc0b90b9e0c06e8afff5ff0878c196c4dbfc0cb5ffb1c76d015"
     },
     {
       "path": "/assets/local/fx/mesh/001-277b8cad.json",
@@ -64591,7 +64591,7 @@
     {
       "path": "/assets/local/fx/textures.json",
       "bytes": 1672938,
-      "sha256": "53c844fabe61690728a3a19de676e96232a03b4911da1cbc8368010e3e04ce28"
+      "sha256": "a3a39a877e520edfc6d50267b6ea48e09a26a2713e178a05c55c4e0efe68a0cb"
     },
     {
       "path": "/assets/local/guide/autochess_handbook_1.png",
@@ -131977,6 +131977,196 @@
       "path": "/assets/local/fx/tex/water_63-57a19142.webp",
       "bytes": 1838,
       "sha256": "e40888457ecd00e4fee13e054a866ccd1d58aa3347295d43c0b9c91adf1f1cf0"
+    },
+    {
+      "path": "/assets/local/fx/mesh/1-b05fdb2c.json",
+      "bytes": 723,
+      "sha256": "c4e71c5f8f06c7fa3c49685ee170af849ee30720b9721b5059ace4151a260abd"
+    },
+    {
+      "path": "/assets/local/fx/mesh/2-5479e416.json",
+      "bytes": 723,
+      "sha256": "c255f96a9acbf0935825787d02f81512a0b6c1fb8f3d4cd71e24cb5cd03e870b"
+    },
+    {
+      "path": "/assets/local/fx/mesh/fx_mesh_plane_07-d8b36c1b.json",
+      "bytes": 2997,
+      "sha256": "09971845eb2626372553f943513f049e0f1467b0a24d525053acc4a9a9cfc594"
+    },
+    {
+      "path": "/assets/local/fx/prefabs/f12yin_attack_01_hit_marthe_13-257f1de2.json",
+      "bytes": 28048,
+      "sha256": "380983a6c6add8039e68bc28509c5b21a5377f32a081c155517bb17f90e3f889"
+    },
+    {
+      "path": "/assets/local/fx/prefabs/f12yin_attack_01_start_marthe_13-cb9fac83.json",
+      "bytes": 21446,
+      "sha256": "ab39eeb7cbc4667b60b04a1f1d5db22aae9a2265fe51b98dbd902f534a8df284"
+    },
+    {
+      "path": "/assets/local/fx/prefabs/f12yin_birth_01_marthe_13-6cf813d3.json",
+      "bytes": 35713,
+      "sha256": "907f83ed03b6c99038811d5ade3a4f0d086c39a11e9bcacf01d7819f85afa76d"
+    },
+    {
+      "path": "/assets/local/fx/prefabs/f12yin_skill_01_hit_marthe_13-5a3cdeba.json",
+      "bytes": 28221,
+      "sha256": "ad05732ff152381b188da03c5ef10bbbe46a05524d41a98aa5d40cbe384d85ea"
+    },
+    {
+      "path": "/assets/local/fx/prefabs/f12yin_skill_01_start_marthe_13-bb909796.json",
+      "bytes": 30048,
+      "sha256": "af0d79f1a43b5f22c837d45b530107fb8bd0eeff93e09fed4adc079d24afdb36"
+    },
+    {
+      "path": "/assets/local/fx/prefabs/f12yin_skill_02_buff_01_marthe_13-39711510.json",
+      "bytes": 17600,
+      "sha256": "5bc787c2d439767cfa1619b5dbe2876eb168960d1129d1b926bc1f844eb14000"
+    },
+    {
+      "path": "/assets/local/fx/prefabs/f12yin_skill_02_buff_02_marthe_13-a0937311.json",
+      "bytes": 53610,
+      "sha256": "fcd4f01be39db66a5e081f7dd9a610f3ff2564820eee23cd7ee30026901ba165"
+    },
+    {
+      "path": "/assets/local/fx/prefabs/f12yin_skill_02_buff_b_marthe_13-f0a02856.json",
+      "bytes": 17128,
+      "sha256": "09f7148bed735e1ef139f32b09d5205abd25e47ccdec22c6f8b6ac8a26cd2a2a"
+    },
+    {
+      "path": "/assets/local/fx/prefabs/f12yin_skill_02_buff_marthe_13-24c329aa.json",
+      "bytes": 17909,
+      "sha256": "6b0e4ba038f9f514873e035cb176eb4b470c0c94c661f4a158141fd2baf3206d"
+    },
+    {
+      "path": "/assets/local/fx/prefabs/f12yin_skill_02_hit_marthe_13-4b41b4c3.json",
+      "bytes": 53745,
+      "sha256": "b507f0170773294b7e148eb24de6228e992528b74c202922d9050ed5a504c4a3"
+    },
+    {
+      "path": "/assets/local/fx/prefabs/f12yin_skill_02_start_marthe_13-e80acc12.json",
+      "bytes": 39334,
+      "sha256": "34a0e18e4638abc9b5de335d592ec359a36e7aecc715637feeaacfeaaf43e26e"
+    },
+    {
+      "path": "/assets/local/fx/prefabs/f12yin_skill_03_buff_02_01_marthe_13-cc6d848f.json",
+      "bytes": 13601,
+      "sha256": "945f4378cc2777ca1abacb765c3fba7097dff079534d0662be157fd71ea9d94d"
+    },
+    {
+      "path": "/assets/local/fx/prefabs/f12yin_skill_03_buff_02_b_marthe_13-e3f5e001.json",
+      "bytes": 12942,
+      "sha256": "eee7ede516e74dcc52eabef3b4c9d52166e7fa05fb42ec509739d6abb522fd55"
+    },
+    {
+      "path": "/assets/local/fx/prefabs/f12yin_skill_03_buff_02_marthe_13-7771f349.json",
+      "bytes": 13919,
+      "sha256": "a6a5c64f246334ff25c5d07a26408b694bc314a63fcafacb87030251691895f8"
+    },
+    {
+      "path": "/assets/local/fx/prefabs/f12yin_skill_03_buff_marthe_13-8aabb83b.json",
+      "bytes": 84818,
+      "sha256": "9ab83aa2b48bb86a1cac0cd72e97f72d2bf611867eb03f37ae1e7a8ff26e5afd"
+    },
+    {
+      "path": "/assets/local/fx/prefabs/f12yin_skill_03_range_marthe_13-e8f5da6a.json",
+      "bytes": 92498,
+      "sha256": "64a5d06b66528009f3754a56025982dfc466bafc916ae99cc903a3b288f86b88"
+    },
+    {
+      "path": "/assets/local/fx/prefabs/f12yin_skill_03_start_marthe_13-6fac0751.json",
+      "bytes": 15684,
+      "sha256": "dab67618f196e18fb75fa725c80e8a96c7cdeba388a83956fb6950bd75b607ee"
+    },
+    {
+      "path": "/assets/local/fx/tex/f12yin_pif_01-b8370e18.webp",
+      "bytes": 1726,
+      "sha256": "77e5cb27c176fd955194a25050d647539f33a6322fedff167d67a140a0fd78c4"
+    },
+    {
+      "path": "/assets/local/fx/tex/f12yin_pif_02-597cba00.webp",
+      "bytes": 27786,
+      "sha256": "94871d4442206ded5c083882c0ee7f08e9178f3ad0e025763d244387348a73e6"
+    },
+    {
+      "path": "/assets/local/fx/tex/f12yin_pif_03-38b36a82.webp",
+      "bytes": 1972,
+      "sha256": "3433f71cbf550b017fe8e660b3a47c7a739922588bb6ca74e03fd2d19176e60d"
+    },
+    {
+      "path": "/assets/local/fx/tex/f12yin_pif_04-ffded7d6.webp",
+      "bytes": 18918,
+      "sha256": "0e67b05efc3d77c54cd98909c6ce4f6930093a984141b8e465c3dac3bdd4efb3"
+    },
+    {
+      "path": "/assets/local/fx/tex/f12yin_pif_05-c9423ef0.webp",
+      "bytes": 37712,
+      "sha256": "a1fd55bf121662b1012186badefa80160596d23fc78e87ef3d95e83313edb092"
+    },
+    {
+      "path": "/assets/local/fx/tex/f12yin_pif_06-b82a8a1a.webp",
+      "bytes": 7526,
+      "sha256": "d147acc6e28c25ddd90048bcda9a052fe7d53012c88170db16a66b703a4e820c"
+    },
+    {
+      "path": "/assets/local/fx/tex/f12yin_pif_07-930e209e.webp",
+      "bytes": 4498,
+      "sha256": "36a235ad531a8c423896a1f764942eafca8d2c91ddbbcb9e62f7414bda10d617"
+    },
+    {
+      "path": "/assets/local/fx/tex/f12yin_pif_08-c7a2158e.webp",
+      "bytes": 13520,
+      "sha256": "d330b378edffe15bc95c02344cba1d720499658bf2c8ae97ac77cca2df7996e5"
+    },
+    {
+      "path": "/assets/local/fx/tex/half/f12yin_pif_01-b8370e18.webp",
+      "bytes": 686,
+      "sha256": "ff82ec702ea107ee75771e16e52de43b6db12f2e9ff646e647b0d5126cf1f990"
+    },
+    {
+      "path": "/assets/local/fx/tex/half/f12yin_pif_02-597cba00.webp",
+      "bytes": 18656,
+      "sha256": "45468d11412b8c6c8c7beccac48f99436c831403aef167231d2b8ef4e850181f"
+    },
+    {
+      "path": "/assets/local/fx/tex/half/f12yin_pif_03-38b36a82.webp",
+      "bytes": 832,
+      "sha256": "44f3e9208a823304b1abd89bab1bc7963d3dd4730ba629a4ff0a6a7afa0e87c4"
+    },
+    {
+      "path": "/assets/local/fx/tex/half/f12yin_pif_04-ffded7d6.webp",
+      "bytes": 8678,
+      "sha256": "bc88bc6b8f100e2aa9bfebe647aa4f1fe139a9e8660aeb26110e4e16eebf98ae"
+    },
+    {
+      "path": "/assets/local/fx/tex/half/f12yin_pif_05-c9423ef0.webp",
+      "bytes": 12332,
+      "sha256": "da7ac3c54f4b3e25504e1f74164098f12435a7b79d0d5074544ce23c05e4c4c6"
+    },
+    {
+      "path": "/assets/local/fx/tex/half/f12yin_pif_06-b82a8a1a.webp",
+      "bytes": 5028,
+      "sha256": "de04ee4dc8b6cd09d52f3a2e2ad7db5680d155b40e512b98543bb9d7996dcc08"
+    },
+    {
+      "path": "/assets/local/fx/tex/half/f12yin_pif_07-930e209e.webp",
+      "bytes": 4652,
+      "sha256": "8dc21c27d56da5a5d2a313d52b81936a866d1730489fd87e8d9979b6f182e114"
+    },
+    {
+      "path": "/assets/local/fx/tex/half/f12yin_pif_08-c7a2158e.webp",
+      "bytes": 7088,
+      "sha256": "11c1820925b664c972ad7c43b712b1dc314e7b2f1da32c270fad5521c3c5b770"
+    },
+    {
+      "path": "/assets/local/fx/tex/half/iana_glow_1-23ecf0a3.webp",
+      "bytes": 1406,
+      "sha256": "ad796a7614e7c58def1fdac7483e81148fdb223407d78cd8ae4fc0eac9281b34"
+    },
+    {
+      "path": "/assets/local/fx/tex/iana_glow_1-23ecf0a3.webp",
+      "bytes": 1812,
+      "sha256": "7f0e59be4db5d2cfc9b9bda4eb39687dbf60ec728e3cb96d0d990b97db43720a"
     }
   ]
 }
