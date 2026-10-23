@@ -25,3 +25,7 @@ Arknights 게임 리소스의 권리는 Hypergryph / Yostar 등 해당 권리자
 ## 중국 클라이언트 스킨 전투 음원
 
 공식 별도 은행이 있는 스킨 4종의 SFX 연결 자료와 새 MP3 15개(356,340바이트)를 추가했다. 기존 공용 음원은 재사용한다. 음원 SHA-256·PCM 검사 및 Chromium Web Audio 디코딩을 확인했다. `metadata/skin-sfx.json`은 역할별 연결/기본 음원 상속 자료이며 게임 코드의 지원이 필요하다. 이번 추출의 클레멘타인 FX 22개는 기존 파일과 동일하여 교체하지 않았다.
+
+## 누락 스킨·마코토 추출 도구
+
+`public/assets/local/dev-tools/arknights-cn-skin-recovery-makoto-kit.zip`은 기존 중국판 추출 환경용 Windows 추가 도구다. 현재 로스터의 누락 스킨 6종과 유키 마코토의 기본/정예화/전체 스킨을 대상으로 모델·FX·투사체·SFX·아이콘·원본 구성요소를 수집한다. 일반 게임 리소스 inventory에는 포함하지 않는 개발 도구다. 검증 범위와 파일 해시는 `metadata/skin-recovery-makoto-kit.json`에 기록했다. 실제 PC 클라이언트 전체 추출은 실행 전이다.

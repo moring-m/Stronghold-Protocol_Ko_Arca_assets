@@ -1,0 +1,73 @@
+{
+  "artifact": "/assets/local/dev-tools/arknights-cn-skin-recovery-makoto-kit.zip",
+  "bytes": 3243343,
+  "sha256": "a32469aa67ef393af9ce120aedb79d311dc94a3c12e5538148645692181cea14",
+  "scope": "Current roster missing costumes + Makoto base/E2/all costumes; all subordinate visual/audio/model references",
+  "missingSkins": [
+    {
+      "charId": "char_499_kaitou",
+      "skinId": "char_499_kaitou@epoque#37",
+      "name": "斜照",
+      "missing": [
+        "selection",
+        "model"
+      ]
+    },
+    {
+      "charId": "char_4109_baslin",
+      "skinId": "char_4109_baslin@witch#5",
+      "name": "夜空星芒",
+      "missing": [
+        "selection",
+        "model"
+      ]
+    },
+    {
+      "charId": "char_4047_pianst",
+      "skinId": "char_4047_pianst@wild#8",
+      "name": "荒野寻音",
+      "missing": [
+        "selection",
+        "model"
+      ]
+    },
+    {
+      "charId": "char_2025_shu",
+      "skinId": "char_2025_shu@nlc#1",
+      "name": "源远流长",
+      "missing": [
+        "selection",
+        "model",
+        "fx-binding"
+      ]
+    },
+    {
+      "charId": "char_1040_blaze2",
+      "skinId": "char_1040_blaze2@nlc#1",
+      "name": "夜行烛火",
+      "missing": [
+        "selection",
+        "model",
+        "fx-binding"
+      ]
+    },
+    {
+      "charId": "char_1033_swire2",
+      "skinId": "char_1033_swire2@nlc#1",
+      "name": "盛世之象",
+      "missing": [
+        "selection",
+        "model",
+        "fx-binding"
+      ]
+    }
+  ],
+  "tests": {
+    "passed": 19,
+    "isolatedPackageImport": true,
+    "embeddedPlanSkinRecords": 9,
+    "actualCNClientRun": false
+  },
+  "videoReference": "https://youtu.be/mHbHqnQvE9w",
+  "videoPlaybackVerified": false
+}
