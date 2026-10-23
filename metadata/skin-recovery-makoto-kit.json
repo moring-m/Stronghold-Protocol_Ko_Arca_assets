@@ -1,7 +1,7 @@
 {
   "artifact": "/assets/local/dev-tools/arknights-cn-skin-recovery-makoto-kit.zip",
-  "bytes": 3243343,
-  "sha256": "a32469aa67ef393af9ce120aedb79d311dc94a3c12e5538148645692181cea14",
+  "bytes": 3243393,
+  "sha256": "2f722cb63ad81fcbf486ff981fbb85aedc9a2d4cbebbb4d0ca3750f34c9cc052",
   "scope": "Current roster missing costumes + Makoto base/E2/all costumes; all subordinate visual/audio/model references",
   "missingSkins": [
     {
@@ -69,5 +69,6 @@
     "actualCNClientRun": false
   },
   "videoReference": "https://youtu.be/mHbHqnQvE9w",
-  "videoPlaybackVerified": false
+  "videoPlaybackVerified": false,
+  "defaultSkinMatching": "Specific costume identity wins even when base and costume share a bundle"
 }
