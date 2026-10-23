@@ -1,7 +1,7 @@
 {
   "artifact": "/assets/local/dev-tools/arknights-cn-skin-recovery-makoto-kit.zip",
-  "bytes": 3243393,
-  "sha256": "2f722cb63ad81fcbf486ff981fbb85aedc9a2d4cbebbb4d0ca3750f34c9cc052",
+  "bytes": 3243399,
+  "sha256": "6863f37ca87a33a782e6803a10e17e1d44db2d9c1d2c3c6eb036c7e9d36c4923",
   "scope": "Current roster missing costumes + Makoto base/E2/all costumes; all subordinate visual/audio/model references",
   "missingSkins": [
     {
@@ -63,12 +63,13 @@
     }
   ],
   "tests": {
-    "passed": 19,
+    "passed": 20,
     "isolatedPackageImport": true,
     "embeddedPlanSkinRecords": 9,
     "actualCNClientRun": false
   },
   "videoReference": "https://youtu.be/mHbHqnQvE9w",
   "videoPlaybackVerified": false,
-  "defaultSkinMatching": "Specific costume identity wins even when base and costume share a bundle"
+  "defaultSkinMatching": "Specific costume identity wins even when base and costume share a bundle",
+  "fix": "Nullable sound lists in audio control banks and clip extraction"
 }
