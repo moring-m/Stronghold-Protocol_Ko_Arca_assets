@@ -1,0 +1,25 @@
+{
+  "approvedOutfits": 19,
+  "withheldOutfits": [
+    {
+      "skinId": "char_264_f12yin@marthe#13",
+      "reason": "Two unresolved effect replacement destinations"
+    }
+  ],
+  "existingOutfitsPreserved": 260,
+  "representativeScreenshots": 60,
+  "projectileScreenshots": 3,
+  "allOutfitModelsReady": true,
+  "browserAssetCheck": {
+    "result": {
+      "prefabs": 357,
+      "failed": [],
+      "nullDefinitions": [],
+      "nullTextures": [],
+      "nullMeshes": []
+    },
+    "errors": []
+  },
+  "relatedTestsPassed": 47,
+  "scope": "Representative attack/skill effects and projectile flight in the actual field renderer. Not exhaustive original-client parity or every skill timing."
+}

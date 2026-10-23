@@ -1,0 +1,19 @@
+{
+  "approvedSkins": 19,
+  "blockedSkins": [
+    "char_264_f12yin@marthe#13"
+  ],
+  "reason": "Two unresolved replacement destinations; preserve previous Mountain skins.",
+  "report": {
+    "matchedSkins": 260,
+    "costumes": 19,
+    "effectReplacements": 345,
+    "prefabs": 357,
+    "projectiles": 20,
+    "textures": 312,
+    "meshes": 92,
+    "files": 1069,
+    "bytes": 28852382,
+    "warnings": []
+  }
+}
