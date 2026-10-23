@@ -1,6 +1,6 @@
 {
-  "files": 26806,
-  "bytes": 731544137,
+  "files": 26811,
+  "bytes": 731777157,
   "missing": [],
   "inventory": [
     {
@@ -134032,6 +134032,31 @@
       "path": "/assets/audio/voice/voice_kr/char_4047_pianst/cn_032.mp3",
       "bytes": 165555,
       "sha256": "f09180574202b8c1fc5cfb90bfa3b7962cea51209a14b094e270d7063d7f699e"
+    },
+    {
+      "path": "/assets/local/audio/sfx/p_atk_pskptldr_s2.mp3",
+      "bytes": 32684,
+      "sha256": "ac2dcb80f941e578c157e1e7c830d0141fb83cd4d513e3c628223d97f88eed33"
+    },
+    {
+      "path": "/assets/local/audio/sfx/p_atk_pskptldr_s3.mp3",
+      "bytes": 33164,
+      "sha256": "29e786c901535b72468012cf42c36cf13c18f4d926275609ab79701f58166575"
+    },
+    {
+      "path": "/assets/local/audio/sfx/p_skill_pskptldrflda.mp3",
+      "bytes": 72044,
+      "sha256": "caf9781580f467ac1e923e07bccb7def0309f79d8afb22888a2e4a4ef6a5010e"
+    },
+    {
+      "path": "/assets/local/audio/sfx/p_skill_pskptldrfldh.mp3",
+      "bytes": 58124,
+      "sha256": "017bce8d1af3ec5e6c97ca5fea365622f63cf9915c3997349cc19dfde17a619d"
+    },
+    {
+      "path": "/assets/local/audio/sfx/p_atk_pskptldrndfl.mp3",
+      "bytes": 37004,
+      "sha256": "153426e40a2667c1679153ed56d513ad47143d357d9361417dbca0f59a300a99"
     }
   ]
 }
