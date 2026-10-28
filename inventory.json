@@ -1,6 +1,6 @@
 {
-  "files": 27555,
-  "bytes": 743366295,
+  "files": 27556,
+  "bytes": 743494122,
   "missing": [],
   "inventory": [
     {
@@ -137777,6 +137777,11 @@
       "path": "/assets/local/map/snowfield/TX_snowfield_N_rgb.png",
       "bytes": 347950,
       "sha256": "1d50efa7f917b5a7afdbeb12671105066814f208c289171e035b987f5dc51220"
+    },
+    {
+      "path": "/assets/local/map/snowfield/TX_snowfield_M_rough.png",
+      "bytes": 127827,
+      "sha256": "a07de755495de703f94110dce7b0cb7851d2a5d99920ab2e2db8375556ac0f33"
     }
   ]
 }
