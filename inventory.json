@@ -1,6 +1,6 @@
 {
-  "files": 27552,
-  "bytes": 740707681,
+  "files": 27555,
+  "bytes": 743282628,
   "missing": [],
   "inventory": [
     {
@@ -137762,6 +137762,21 @@
       "path": "/assets/local/fx/tex/zuole_sale_17_03-c2680d54.webp",
       "bytes": 9086,
       "sha256": "386cd108a20e4c1d29411609e0d811a0e8c095b80bb671e2bc3b4433531d3f1f"
+    },
+    {
+      "path": "/assets/local/map/snowfield/TX_snowfield_D.png",
+      "bytes": 2210481,
+      "sha256": "b29fde3a9cb8f0aadf5fea4158a4418775162dd09059e16f029d763ec3493c70"
+    },
+    {
+      "path": "/assets/local/map/snowfield/TX_snowfield_E.png",
+      "bytes": 17092,
+      "sha256": "92353f9725dcc0dddb618e8dd4d6d0efd9199571cfae6ad8f5b67235a2d4d567"
+    },
+    {
+      "path": "/assets/local/map/snowfield/TX_snowfield_N_rgb.png",
+      "bytes": 347374,
+      "sha256": "bec54415845e04282401164085ac5410a9b8664694bd74584943f7368d15ec5c"
     }
   ]
 }
