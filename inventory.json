@@ -1,6 +1,6 @@
 {
-  "files": 27563,
-  "bytes": 750541498,
+  "files": 27566,
+  "bytes": 751266448,
   "missing": [],
   "inventory": [
     {
@@ -124070,8 +124070,8 @@
     },
     {
       "path": "/assets/local/map/original/materials-v13.json",
-      "bytes": 24966,
-      "sha256": "3007d33d6352c5cccbc6dda8b2b3d9d25f03e869ada738a9343152d33748d2cf"
+      "bytes": 26372,
+      "sha256": "04f646a9d59840b7b7764b992d2f227da3fdc8899f796342448b7ccdffb48908"
     },
     {
       "path": "/assets/local/map/original/platform-v1.json",
@@ -137810,13 +137810,28 @@
     },
     {
       "path": "/assets/local/map/original/snowfield-scenery-v16.bin.gz",
-      "bytes": 712304,
-      "sha256": "e51bb5fe29266a37eb48bc8ba4dd61231657c1fbf908536a3d13dddf9c272dd8"
+      "bytes": 713142,
+      "sha256": "fcb788242dc3c215a3465a7966487eb6aaf856512baff411baecf0fd050c1e46"
     },
     {
       "path": "/assets/local/map/original/snowfield-scenery-v16.json.gz",
-      "bytes": 450641,
-      "sha256": "4a9baed1e142f7b89be434c1da583516ee3bcd4249d90187475e02c1982dc13e"
+      "bytes": 451337,
+      "sha256": "671e0a3cb371b34dd1986a6261578edb7bfad6e9b955a30b4e84285e07347e91"
+    },
+    {
+      "path": "/assets/local/map/original/TX_icewild_common_E.png",
+      "bytes": 104933,
+      "sha256": "c9f5fc5103c5fddc144146e34ea7ef373e08b16b493e0b7e9228dc39e35e9f57"
+    },
+    {
+      "path": "/assets/local/map/original/TX_icewild_common_M_metalrough-v2.png",
+      "bytes": 91395,
+      "sha256": "426b2a31654070208c67f8f62f9757f3e60e4f1af81e82ca8c7b11f6c5499222"
+    },
+    {
+      "path": "/assets/local/map/original/TX_wild_common_A.png",
+      "bytes": 525682,
+      "sha256": "d96fb1078df5ab26bb28f65c96cb4897b7e67d76e39d5489a74d29a4153a0cbd"
     }
   ]
 }
