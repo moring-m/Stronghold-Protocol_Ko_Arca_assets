@@ -1,6 +1,6 @@
 {
   "files": 27563,
-  "bytes": 750580788,
+  "bytes": 750114954,
   "missing": [],
   "inventory": [
     {
@@ -137765,23 +137765,23 @@
     },
     {
       "path": "/assets/local/map/snowfield/TX_snowfield_D.png",
-      "bytes": 2293572,
-      "sha256": "b67f76f2b2f3c67b2176c1de2b820a287267e5152574b26aeb9969263c54959a"
+      "bytes": 2006661,
+      "sha256": "7d2e2e9f7492fd17d64fdd72b58fa6d5b688b5d276b60fafbe1240327848de7a"
     },
     {
       "path": "/assets/local/map/snowfield/TX_snowfield_E.png",
-      "bytes": 17092,
-      "sha256": "92353f9725dcc0dddb618e8dd4d6d0efd9199571cfae6ad8f5b67235a2d4d567"
+      "bytes": 5947,
+      "sha256": "5d5b16f11abca800d71f05610a086534930de8a6ed1a2a4f7d5bbefba7da6c03"
     },
     {
       "path": "/assets/local/map/snowfield/TX_snowfield_N_rgb.png",
-      "bytes": 347950,
-      "sha256": "1d50efa7f917b5a7afdbeb12671105066814f208c289171e035b987f5dc51220"
+      "bytes": 427742,
+      "sha256": "99598d079ee74ae5b8f6fc26b6f67766042aa5261ceccf0b86e19a7c0916540e"
     },
     {
       "path": "/assets/local/map/snowfield/TX_snowfield_M_rough.png",
-      "bytes": 127827,
-      "sha256": "a07de755495de703f94110dce7b0cb7851d2a5d99920ab2e2db8375556ac0f33"
+      "bytes": 102265,
+      "sha256": "210fb89225b8ed42faa0c2ebaf95f874e19ab14df42fafadbb6389be951768b3"
     },
     {
       "path": "/assets/local/map/original/TX_icewild_A.png",
@@ -137804,19 +137804,19 @@
       "sha256": "8ca511a2e1f415eb79e26cd5e715e58f7752b502f5ed1f4176f776a5c164ce04"
     },
     {
-      "path": "/assets/local/map/original/custom_snowfield-Lightmap-0_comp_light-rgbm-v1.png",
+      "path": "/assets/local/map/original/snowfield-scenery-Lightmap-0_comp_light-rgbm-v1.png",
       "bytes": 963770,
       "sha256": "2e71968e4fab3a79c2da884c48706f86ced1a066d19e5580c4d9ee96ac3a70b3"
     },
     {
-      "path": "/assets/local/map/original/custom_snowfield-v16.bin.gz",
-      "bytes": 558460,
-      "sha256": "b1b7b85acdf452360aefdefab5544229653637b551a8de7e9372c7d582999594"
+      "path": "/assets/local/map/original/snowfield-scenery-v16.bin.gz",
+      "bytes": 433228,
+      "sha256": "b85b313009db36827add91b7a64660e3f58325b00c6c3b8264a5b4b5995954c9"
     },
     {
-      "path": "/assets/local/map/original/custom_snowfield-v16.json.gz",
-      "bytes": 399949,
-      "sha256": "6eb089f84e55f3a45d14d1edc489cdf6ace5247976561d01102702499a89ff19"
+      "path": "/assets/local/map/original/snowfield-scenery-v16.json.gz",
+      "bytes": 303173,
+      "sha256": "423a5708c8c88c9f42eb8931a1db4e1a5ffbf7d8ba439bdca14982dc6c9ed603"
     }
   ]
 }
