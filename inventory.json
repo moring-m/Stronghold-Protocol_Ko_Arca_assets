@@ -1,6 +1,6 @@
 {
   "files": 27555,
-  "bytes": 743282628,
+  "bytes": 743366295,
   "missing": [],
   "inventory": [
     {
@@ -137765,8 +137765,8 @@
     },
     {
       "path": "/assets/local/map/snowfield/TX_snowfield_D.png",
-      "bytes": 2210481,
-      "sha256": "b29fde3a9cb8f0aadf5fea4158a4418775162dd09059e16f029d763ec3493c70"
+      "bytes": 2293572,
+      "sha256": "b67f76f2b2f3c67b2176c1de2b820a287267e5152574b26aeb9969263c54959a"
     },
     {
       "path": "/assets/local/map/snowfield/TX_snowfield_E.png",
@@ -137775,8 +137775,8 @@
     },
     {
       "path": "/assets/local/map/snowfield/TX_snowfield_N_rgb.png",
-      "bytes": 347374,
-      "sha256": "bec54415845e04282401164085ac5410a9b8664694bd74584943f7368d15ec5c"
+      "bytes": 347950,
+      "sha256": "1d50efa7f917b5a7afdbeb12671105066814f208c289171e035b987f5dc51220"
     }
   ]
 }
