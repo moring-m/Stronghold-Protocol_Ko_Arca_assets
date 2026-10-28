@@ -1,6 +1,6 @@
 {
   "files": 27563,
-  "bytes": 750114954,
+  "bytes": 750355173,
   "missing": [],
   "inventory": [
     {
@@ -137810,13 +137810,13 @@
     },
     {
       "path": "/assets/local/map/original/snowfield-scenery-v16.bin.gz",
-      "bytes": 433228,
-      "sha256": "b85b313009db36827add91b7a64660e3f58325b00c6c3b8264a5b4b5995954c9"
+      "bytes": 582548,
+      "sha256": "e52f3e261f46882ecb95d0dcc553d644c2fe35d55fca461a246be815a9b7867b"
     },
     {
       "path": "/assets/local/map/original/snowfield-scenery-v16.json.gz",
-      "bytes": 303173,
-      "sha256": "423a5708c8c88c9f42eb8931a1db4e1a5ffbf7d8ba439bdca14982dc6c9ed603"
+      "bytes": 394072,
+      "sha256": "261a66a7308cf9c6e2db27f50b34b6a2fa71d0c958df402b1f2160f70604b7a9"
     }
   ]
 }
