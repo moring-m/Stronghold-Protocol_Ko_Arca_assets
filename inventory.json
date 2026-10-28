@@ -1,6 +1,6 @@
 {
-  "files": 27556,
-  "bytes": 743494122,
+  "files": 27563,
+  "bytes": 750580788,
   "missing": [],
   "inventory": [
     {
@@ -124070,8 +124070,8 @@
     },
     {
       "path": "/assets/local/map/original/materials-v13.json",
-      "bytes": 24747,
-      "sha256": "8cc1fa72abde9481453b4aa3c1565271461373b20c62cea03695cca2e3ad2dbb"
+      "bytes": 24966,
+      "sha256": "3007d33d6352c5cccbc6dda8b2b3d9d25f03e869ada738a9343152d33748d2cf"
     },
     {
       "path": "/assets/local/map/original/platform-v1.json",
@@ -137782,6 +137782,41 @@
       "path": "/assets/local/map/snowfield/TX_snowfield_M_rough.png",
       "bytes": 127827,
       "sha256": "a07de755495de703f94110dce7b0cb7851d2a5d99920ab2e2db8375556ac0f33"
+    },
+    {
+      "path": "/assets/local/map/original/TX_icewild_A.png",
+      "bytes": 3652059,
+      "sha256": "77ae9c70227c9de8a1c94308576d476c44f41341ba6a2e04abc7089c840e5396"
+    },
+    {
+      "path": "/assets/local/map/original/TX_icewild_E.png",
+      "bytes": 307882,
+      "sha256": "e38a60cebfd1ff5f6db3bd464d62a4766525fedc9eaaa3cde9c6c30efb499875"
+    },
+    {
+      "path": "/assets/local/map/original/TX_icewild_M_metalrough-v2.png",
+      "bytes": 382414,
+      "sha256": "bbd1d69645f5a2e16b94701c35284f819fdc65c528ecba75e1d250dd3d48f9c2"
+    },
+    {
+      "path": "/assets/local/map/original/TX_icewild_N_normal-rgb-v2.png",
+      "bytes": 821913,
+      "sha256": "8ca511a2e1f415eb79e26cd5e715e58f7752b502f5ed1f4176f776a5c164ce04"
+    },
+    {
+      "path": "/assets/local/map/original/custom_snowfield-Lightmap-0_comp_light-rgbm-v1.png",
+      "bytes": 963770,
+      "sha256": "2e71968e4fab3a79c2da884c48706f86ced1a066d19e5580c4d9ee96ac3a70b3"
+    },
+    {
+      "path": "/assets/local/map/original/custom_snowfield-v16.bin.gz",
+      "bytes": 558460,
+      "sha256": "b1b7b85acdf452360aefdefab5544229653637b551a8de7e9372c7d582999594"
+    },
+    {
+      "path": "/assets/local/map/original/custom_snowfield-v16.json.gz",
+      "bytes": 399949,
+      "sha256": "6eb089f84e55f3a45d14d1edc489cdf6ace5247976561d01102702499a89ff19"
     }
   ]
 }
