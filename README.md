@@ -29,3 +29,7 @@ Arknights 게임 리소스의 권리는 Hypergryph / Yostar 등 해당 권리자
 ## 누락 스킨·마코토 추출 도구
 
 `public/assets/local/dev-tools/arknights-cn-skin-recovery-makoto-kit.zip`은 기존 중국판 추출 환경용 Windows 추가 도구다. 현재 로스터의 누락 스킨 6종과 유키 마코토의 기본/정예화/전체 스킨을 대상으로 모델·FX·투사체·SFX·아이콘·원본 구성요소를 수집한다. 일반 게임 리소스 inventory에는 포함하지 않는 개발 도구다. 검증 범위와 파일 해시는 `metadata/skin-recovery-makoto-kit.json`에 기록했다. 실제 PC 클라이언트 전체 추출은 실행 전이다.
+
+## 탈룰라·테리토리야·토스카
+
+`metadata/northern-resources.json`에 세 선발 오퍼레이터의 모델·초상화·스킬 아이콘·공식 FX·SFX·음성에 사용하는 리소스 1,092개의 크기와 SHA-256을 기록했다. 기존 파일과 동일한 페이로드는 재사용하고, 추가 파일 및 병합된 FX 인덱스만 갱신했다. 게임 저장소는 이 팩을 별도 불변 커밋에 고정하므로 기존 맵 리소스의 고정 참조는 유지된다.
