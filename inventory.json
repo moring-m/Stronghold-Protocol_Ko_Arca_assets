@@ -1,6 +1,6 @@
 {
-  "files": 29024,
-  "bytes": 888831258,
+  "files": 29042,
+  "bytes": 917718302,
   "missing": [],
   "inventory": [
     {
@@ -135854,6 +135854,11 @@
       "sha256": "6cc1f3892c791a6df158034f1d5bda28b8c0d1ab10fb468a92f0ecbbee3651fa"
     },
     {
+      "path": "/assets/local/map/original/TX_Syracuse_metro_BG.png",
+      "bytes": 274113,
+      "sha256": "648c3e4123f5bd1369d549cdeef9c906a43a16ed15b653385415a6f2b5d4d058"
+    },
+    {
       "path": "/assets/local/map/original/TX_Syracuse_metro_D.png",
       "bytes": 4329694,
       "sha256": "c86a0d6b2f0b84a627266b276b17552e9547547b407328678b45857a54bd8eb8"
@@ -135917,6 +135922,56 @@
       "path": "/assets/local/map/original/TX_WaterNoise.png",
       "bytes": 42499,
       "sha256": "1da0bfb0f5813f8fdf993ade99fae97469f94bb7663a20398e8dd6a6ba2f2708"
+    },
+    {
+      "path": "/assets/local/map/original/TX_church_tower_BG.png",
+      "bytes": 831545,
+      "sha256": "0e7786e77505124aa7f7345870d5eff79a24eb8b2cccfb5be29bee2bdcad6597"
+    },
+    {
+      "path": "/assets/local/map/original/TX_church_tower_D.png",
+      "bytes": 2711357,
+      "sha256": "9be477bc4ab3fadc2026bcc1ab07e52bf7d80a02517fa03d4cd63a277c45d398"
+    },
+    {
+      "path": "/assets/local/map/original/TX_church_tower_E.png",
+      "bytes": 6485,
+      "sha256": "834b4f511c732bee754520867afbd6c26555c87c532cae09ced68ba28c0bc22a"
+    },
+    {
+      "path": "/assets/local/map/original/TX_church_tower_M_metalrough-v2.png",
+      "bytes": 390897,
+      "sha256": "76e2d1cb8a12ee21eafd978b9d85041ea288d60ba38f58a64458394a65c9f457"
+    },
+    {
+      "path": "/assets/local/map/original/TX_church_tower_N_normal-rgb-v2.png",
+      "bytes": 403426,
+      "sha256": "d2d12599f890af05a51cf8b61b825f8dd8b72930dc2d53f1bce691f9597a4972"
+    },
+    {
+      "path": "/assets/local/map/original/TX_church_tower_Transparent_D.png",
+      "bytes": 646503,
+      "sha256": "c4310d9aca327ee89eabbc546f5bdd1e5e15d15e6c629c9804c44325d30a76d2"
+    },
+    {
+      "path": "/assets/local/map/original/TX_church_tower_Transparent_M_metalrough-v2.png",
+      "bytes": 45633,
+      "sha256": "d2f955d09a69dca2f1dc434b9c774e2c968b09b982035662283663a64568f8c9"
+    },
+    {
+      "path": "/assets/local/map/original/TX_church_tower_Transparent_N_normal-rgb-v2.png",
+      "bytes": 33261,
+      "sha256": "f30db857976cbfcee16279c9f76d746839c4292edcfd80ea9e3c3b08e39dc0f0"
+    },
+    {
+      "path": "/assets/local/map/original/TX_church_tower_common_D.png",
+      "bytes": 538933,
+      "sha256": "d0b2ee7459cac85c556b02d3a364e9bb20d8da74e0f258c1c33468df4cee3fef"
+    },
+    {
+      "path": "/assets/local/map/original/TX_church_tower_common_E.png",
+      "bytes": 21812,
+      "sha256": "92f62abac695d82d07df38638e7793cf57b5a3c74f473d01af27ba8206a31733"
     },
     {
       "path": "/assets/local/map/original/TX_icewild_A.png",
@@ -136214,6 +136269,16 @@
       "sha256": "ff44cbd0a35579c5f6fab62070bd3bff82b0d73a14e165e2753e10d27e329fd8"
     },
     {
+      "path": "/assets/local/map/original/act3autochess_m05-Lightmap-0-scene-rgbm-v1.png",
+      "bytes": 2457917,
+      "sha256": "d988428bf5ff7cfc61b7c38ad5c52b9a6e0bd9f8ada6c199c5853532ba3dc908"
+    },
+    {
+      "path": "/assets/local/map/original/act3autochess_m05-v16.bin.gz",
+      "bytes": 3272988,
+      "sha256": "c0a3f623d0755b7843992ffd7d372889ddb4880c4f1c25c940c55b27fda679f1"
+    },
+    {
       "path": "/assets/local/map/original/act3autochess_m06-Lightmap-0-scene-rgbm-v1.png",
       "bytes": 1763225,
       "sha256": "05a7c2a1a600c0d34443ffa8929ed5cce6007621a0249255140121c97e498642"
@@ -136234,6 +136299,16 @@
       "sha256": "5d5d2fc0c2fa5df8970cf46d41c991814e9f4d03ba4e3640aa3108656ce62c5f"
     },
     {
+      "path": "/assets/local/map/original/act3autochess_m10-Lightmap-0-scene-rgbm-v1.png",
+      "bytes": 3857325,
+      "sha256": "e5bec933b1318012582f15841e13424cc0f190953df2807c447bb1449275713f"
+    },
+    {
+      "path": "/assets/local/map/original/act3autochess_m10-v16.bin.gz",
+      "bytes": 4769645,
+      "sha256": "d330828f9f7d863b8123c946076d327eac2dfa71a5c419d0a821734699bd4d88"
+    },
+    {
       "path": "/assets/local/map/original/act3autochess_m11-Lightmap-0-scene-rgbm-v1.png",
       "bytes": 2192376,
       "sha256": "f82ff90786485f9cf69f074c966bcc726922d3df813e7abedc76418f4a83841f"
@@ -136242,6 +136317,16 @@
       "path": "/assets/local/map/original/act3autochess_m11-v16.bin.gz",
       "bytes": 2105451,
       "sha256": "ee290735300ac497bb366f41b492800c3e91f0bacfb065fa9d31510f76586dd9"
+    },
+    {
+      "path": "/assets/local/map/original/act3autochess_m12-Lightmap-0-scene-rgbm-v1.png",
+      "bytes": 3750117,
+      "sha256": "2dc67e164dd6cbcdebfc7d020bd84a1880087708482b1b117ceb0696c127ada4"
+    },
+    {
+      "path": "/assets/local/map/original/act3autochess_m12-v16.bin.gz",
+      "bytes": 4839434,
+      "sha256": "17c30744618048ebf490af56962ef235c1e21c4437d1fe80c1d51f6f625bed93"
     },
     {
       "path": "/assets/local/map/original/crate-v1.json",
@@ -136257,6 +136342,11 @@
       "path": "/assets/local/map/original/materials-v14.json",
       "bytes": 26372,
       "sha256": "04f646a9d59840b7b7764b992d2f227da3fdc8899f796342448b7ccdffb48908"
+    },
+    {
+      "path": "/assets/local/map/original/materials-v15.json",
+      "bytes": 35653,
+      "sha256": "74d792f636544f8f51a7e61fd3879d7c0822eaeb0adf7e197e5f452356825dc2"
     },
     {
       "path": "/assets/local/map/original/platform-v1.json",
