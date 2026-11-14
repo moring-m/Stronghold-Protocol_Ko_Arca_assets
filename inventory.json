@@ -1,6 +1,6 @@
 {
-  "files": 29042,
-  "bytes": 917718302,
+  "files": 29048,
+  "bytes": 918594066,
   "missing": [],
   "inventory": [
     {
@@ -136014,6 +136014,26 @@
       "sha256": "a60ebca06a70086f8352f31eac5ef42fb0b2f040e0e9de88938328b09a5817e6"
     },
     {
+      "path": "/assets/local/map/original/TX_trap_196_cnnon_D.png",
+      "bytes": 266419,
+      "sha256": "a5bbedcbd6955fd384bf70af54058e525d0d35d0c1a21b99ecacce423d413a58"
+    },
+    {
+      "path": "/assets/local/map/original/TX_trap_196_cnnon_E.png",
+      "bytes": 1811,
+      "sha256": "2602bfe73a44abb0c00118802cf1394fdd9b913312348abe33bed4750d1dac0e"
+    },
+    {
+      "path": "/assets/local/map/original/TX_trap_196_cnnon_M_metalrough-v2.png",
+      "bytes": 141242,
+      "sha256": "ecdc5f9f59595d309bdf3ff729a7128169d6233f71361b83ce491b1cf599c195"
+    },
+    {
+      "path": "/assets/local/map/original/TX_trap_196_cnnon_N_normal-rgb-v2.png",
+      "bytes": 260637,
+      "sha256": "2352ee550b70272248d1c5454cc2f246dcc044ab1d4e61202410423de7ba386d"
+    },
+    {
       "path": "/assets/local/map/original/TX_wild_common_A.png",
       "bytes": 525682,
       "sha256": "d96fb1078df5ab26bb28f65c96cb4897b7e67d76e39d5489a74d29a4153a0cbd"
@@ -136329,6 +136349,11 @@
       "sha256": "17c30744618048ebf490af56962ef235c1e21c4437d1fe80c1d51f6f625bed93"
     },
     {
+      "path": "/assets/local/map/original/cannon-v1.json",
+      "bytes": 168461,
+      "sha256": "d06acdfb632ea297c1a98de02822fdf035cf4e37cdcd6843b4eb625db1f9798a"
+    },
+    {
       "path": "/assets/local/map/original/crate-v1.json",
       "bytes": 71127,
       "sha256": "b5f53aea1a68610277de0354983ceaba086bc85e9ef6e7171832040c7d77b61d"
@@ -136347,6 +136372,11 @@
       "path": "/assets/local/map/original/materials-v15.json",
       "bytes": 35653,
       "sha256": "74d792f636544f8f51a7e61fd3879d7c0822eaeb0adf7e197e5f452356825dc2"
+    },
+    {
+      "path": "/assets/local/map/original/materials-v16.json",
+      "bytes": 37194,
+      "sha256": "78127039a0d656fa0063af3f6af4cca427fd3792eaaaa3cd9f4b0e20097bbf71"
     },
     {
       "path": "/assets/local/map/original/platform-v1.json",
