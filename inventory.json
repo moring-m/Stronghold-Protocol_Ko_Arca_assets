@@ -1,6 +1,6 @@
 {
   "files": 29048,
-  "bytes": 918498422,
+  "bytes": 918271752,
   "missing": [],
   "inventory": [
     {
@@ -136295,8 +136295,8 @@
     },
     {
       "path": "/assets/local/map/original/act3autochess_m05-v16.bin.gz",
-      "bytes": 3272988,
-      "sha256": "c0a3f623d0755b7843992ffd7d372889ddb4880c4f1c25c940c55b27fda679f1"
+      "bytes": 3046318,
+      "sha256": "bc6eb252a977597ed9f6bfffeb8d8171ae9008ace4eec3dbd60c767c822b31f0"
     },
     {
       "path": "/assets/local/map/original/act3autochess_m06-Lightmap-0-scene-rgbm-v1.png",
