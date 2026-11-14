@@ -1,6 +1,6 @@
 {
   "files": 29048,
-  "bytes": 918594066,
+  "bytes": 918498422,
   "missing": [],
   "inventory": [
     {
@@ -136315,8 +136315,8 @@
     },
     {
       "path": "/assets/local/map/original/act3autochess_m09-v16.bin.gz",
-      "bytes": 2117445,
-      "sha256": "5d5d2fc0c2fa5df8970cf46d41c991814e9f4d03ba4e3640aa3108656ce62c5f"
+      "bytes": 2110626,
+      "sha256": "2b5b0a0aebcae500e9d344ee94d5b13bcf098e38641198901f4fdf72af5e895e"
     },
     {
       "path": "/assets/local/map/original/act3autochess_m10-Lightmap-0-scene-rgbm-v1.png",
@@ -136325,8 +136325,8 @@
     },
     {
       "path": "/assets/local/map/original/act3autochess_m10-v16.bin.gz",
-      "bytes": 4769645,
-      "sha256": "d330828f9f7d863b8123c946076d327eac2dfa71a5c419d0a821734699bd4d88"
+      "bytes": 4730087,
+      "sha256": "6fc134595eef7f6c581f57445931c3df6bae5aaf4e332397c2b9ff4c516e5a7f"
     },
     {
       "path": "/assets/local/map/original/act3autochess_m11-Lightmap-0-scene-rgbm-v1.png",
@@ -136335,8 +136335,8 @@
     },
     {
       "path": "/assets/local/map/original/act3autochess_m11-v16.bin.gz",
-      "bytes": 2105451,
-      "sha256": "ee290735300ac497bb366f41b492800c3e91f0bacfb065fa9d31510f76586dd9"
+      "bytes": 2097470,
+      "sha256": "745c40dff91f34026ce4a5a670a6e375eaa8e9ebc366a498583064c082e71efb"
     },
     {
       "path": "/assets/local/map/original/act3autochess_m12-Lightmap-0-scene-rgbm-v1.png",
@@ -136345,8 +136345,8 @@
     },
     {
       "path": "/assets/local/map/original/act3autochess_m12-v16.bin.gz",
-      "bytes": 4839434,
-      "sha256": "17c30744618048ebf490af56962ef235c1e21c4437d1fe80c1d51f6f625bed93"
+      "bytes": 4798148,
+      "sha256": "b82824e589b2fede440cd14db69d3465a0ae8a038680651f1587064a1ea4278a"
     },
     {
       "path": "/assets/local/map/original/cannon-v1.json",
