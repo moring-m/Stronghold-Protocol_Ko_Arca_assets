@@ -1,6 +1,6 @@
 {
-  "files": 29058,
-  "bytes": 919385040,
+  "files": 29063,
+  "bytes": 931358569,
   "missing": [],
   "inventory": [
     {
@@ -136314,9 +136314,14 @@
       "sha256": "5155a1dc8a63322b21006306856fadbb221950795210ad642aa98d6701bf0c5e"
     },
     {
+      "path": "/assets/local/map/original/act3autochess_m09-Lightmap-0-scene-rgbm-v2.png",
+      "bytes": 2136446,
+      "sha256": "5155a1dc8a63322b21006306856fadbb221950795210ad642aa98d6701bf0c5e"
+    },
+    {
       "path": "/assets/local/map/original/act3autochess_m09-v16.bin.gz",
       "bytes": 2110626,
-      "sha256": "2b5b0a0aebcae500e9d344ee94d5b13bcf098e38641198901f4fdf72af5e895e"
+      "sha256": "3172989c4cbccd20a53c1c6beda7b6e9ee532dafca72c59a438f89d9c7e1da94"
     },
     {
       "path": "/assets/local/map/original/act3autochess_m10-Lightmap-0-scene-rgbm-v1.png",
@@ -136324,9 +136329,14 @@
       "sha256": "e5bec933b1318012582f15841e13424cc0f190953df2807c447bb1449275713f"
     },
     {
+      "path": "/assets/local/map/original/act3autochess_m10-Lightmap-0-scene-rgbm-v2.png",
+      "bytes": 3857322,
+      "sha256": "89d4e2f12a8e8e41aa6b8bff645579c3b5483154068a0f1a66ba11cf2b4b144c"
+    },
+    {
       "path": "/assets/local/map/original/act3autochess_m10-v16.bin.gz",
       "bytes": 4730087,
-      "sha256": "6fc134595eef7f6c581f57445931c3df6bae5aaf4e332397c2b9ff4c516e5a7f"
+      "sha256": "daf63c0683cdf29ca49d05639227050dabeddcf80d35cb63ddddea6f4703e7e9"
     },
     {
       "path": "/assets/local/map/original/act3autochess_m11-Lightmap-0-scene-rgbm-v1.png",
@@ -136334,9 +136344,14 @@
       "sha256": "f82ff90786485f9cf69f074c966bcc726922d3df813e7abedc76418f4a83841f"
     },
     {
+      "path": "/assets/local/map/original/act3autochess_m11-Lightmap-0-scene-rgbm-v2.png",
+      "bytes": 2192376,
+      "sha256": "f82ff90786485f9cf69f074c966bcc726922d3df813e7abedc76418f4a83841f"
+    },
+    {
       "path": "/assets/local/map/original/act3autochess_m11-v16.bin.gz",
-      "bytes": 2097470,
-      "sha256": "745c40dff91f34026ce4a5a670a6e375eaa8e9ebc366a498583064c082e71efb"
+      "bytes": 2097479,
+      "sha256": "76a23f768a7a15bfb3b3d7c25aa2447f020d8d7b5e27a1d78cef4c3a83d296d8"
     },
     {
       "path": "/assets/local/map/original/act3autochess_m12-Lightmap-0-scene-rgbm-v1.png",
@@ -136344,9 +136359,14 @@
       "sha256": "2dc67e164dd6cbcdebfc7d020bd84a1880087708482b1b117ceb0696c127ada4"
     },
     {
+      "path": "/assets/local/map/original/act3autochess_m12-Lightmap-0-scene-rgbm-v2.png",
+      "bytes": 3750180,
+      "sha256": "2dc579e5e07ffa32801dc2269e5dfe85d8edb25a4d4f5d0f5b0e3d18ec8a4d9f"
+    },
+    {
       "path": "/assets/local/map/original/act3autochess_m12-v16.bin.gz",
-      "bytes": 4798148,
-      "sha256": "b82824e589b2fede440cd14db69d3465a0ae8a038680651f1587064a1ea4278a"
+      "bytes": 4798150,
+      "sha256": "248fe03b82c3ba9a0df687b4a5439ebdfcb380656884e4f9264e98d42c848320"
     },
     {
       "path": "/assets/local/map/original/cannon-v1.json",
@@ -136377,6 +136397,11 @@
       "path": "/assets/local/map/original/materials-v16.json",
       "bytes": 37194,
       "sha256": "78127039a0d656fa0063af3f6af4cca427fd3792eaaaa3cd9f4b0e20097bbf71"
+    },
+    {
+      "path": "/assets/local/map/original/materials-v17.json",
+      "bytes": 37194,
+      "sha256": "e783f0db2c9c1233bba63c07de3d5ac1f01ed75844f7e97278941db3e2cb4b1b"
     },
     {
       "path": "/assets/local/map/original/platform-v1.json",
