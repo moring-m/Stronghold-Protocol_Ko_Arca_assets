@@ -1,6 +1,6 @@
 {
-  "files": 29010,
-  "bytes": 862946866,
+  "files": 29024,
+  "bytes": 888831258,
   "missing": [],
   "inventory": [
     {
@@ -136172,6 +136172,76 @@
       "path": "/assets/local/map/original/act2autochess_m04-v16.json.gz",
       "bytes": 869980,
       "sha256": "644304d0c7d151b0b5a67ca1c2b545ad9a45d5efd0e18ed72fbf7e8704f2063b"
+    },
+    {
+      "path": "/assets/local/map/original/act3autochess_m01-Lightmap-0-scene-rgbm-v1.png",
+      "bytes": 1950166,
+      "sha256": "0eb754a8bc13b9c87fb115a4cc66cc6570f460d8735bd7a7ded07a5e370e907d"
+    },
+    {
+      "path": "/assets/local/map/original/act3autochess_m01-v16.bin.gz",
+      "bytes": 1540455,
+      "sha256": "fcad5245920ef8b55a3746109ae2ae2299b75d47dedf9c4b575d4d292ea4cf72"
+    },
+    {
+      "path": "/assets/local/map/original/act3autochess_m02-Lightmap-0-scene-rgbm-v1.png",
+      "bytes": 1897964,
+      "sha256": "6741d8ba77902788f86a0eb1334ccfd70b67d2289dd31878a194f07b527d9ca6"
+    },
+    {
+      "path": "/assets/local/map/original/act3autochess_m02-v16.bin.gz",
+      "bytes": 1526758,
+      "sha256": "325dce018a961a6bf286e18a1340028496b2ee3831a2b6b9b73033f2127bef95"
+    },
+    {
+      "path": "/assets/local/map/original/act3autochess_m03-Lightmap-0-scene-rgbm-v1.png",
+      "bytes": 1907469,
+      "sha256": "4af8e56b5fb733f98d111c59cc23a0eff5e3f07af7f7ee44424fa4a9ed21bf95"
+    },
+    {
+      "path": "/assets/local/map/original/act3autochess_m03-v16.bin.gz",
+      "bytes": 1505782,
+      "sha256": "52e6c2adb5f128ee88cc5a51db85b5896e19fdbf0fa32da05f575b7463148d9f"
+    },
+    {
+      "path": "/assets/local/map/original/act3autochess_m04-Lightmap-0-scene-rgbm-v1.png",
+      "bytes": 1876541,
+      "sha256": "cf64254463ee772b72f2d5d4a7ea6e50393afcce64275ac2ece8ac7d3ebb2183"
+    },
+    {
+      "path": "/assets/local/map/original/act3autochess_m04-v16.bin.gz",
+      "bytes": 1596676,
+      "sha256": "ff44cbd0a35579c5f6fab62070bd3bff82b0d73a14e165e2753e10d27e329fd8"
+    },
+    {
+      "path": "/assets/local/map/original/act3autochess_m06-Lightmap-0-scene-rgbm-v1.png",
+      "bytes": 1763225,
+      "sha256": "05a7c2a1a600c0d34443ffa8929ed5cce6007621a0249255140121c97e498642"
+    },
+    {
+      "path": "/assets/local/map/original/act3autochess_m06-v16.bin.gz",
+      "bytes": 1767638,
+      "sha256": "fa983f79b96e48525f114e8f15469520adaaf2f086292561af78b896d6fec1a2"
+    },
+    {
+      "path": "/assets/local/map/original/act3autochess_m09-Lightmap-0-scene-rgbm-v1.png",
+      "bytes": 2136446,
+      "sha256": "5155a1dc8a63322b21006306856fadbb221950795210ad642aa98d6701bf0c5e"
+    },
+    {
+      "path": "/assets/local/map/original/act3autochess_m09-v16.bin.gz",
+      "bytes": 2117445,
+      "sha256": "5d5d2fc0c2fa5df8970cf46d41c991814e9f4d03ba4e3640aa3108656ce62c5f"
+    },
+    {
+      "path": "/assets/local/map/original/act3autochess_m11-Lightmap-0-scene-rgbm-v1.png",
+      "bytes": 2192376,
+      "sha256": "f82ff90786485f9cf69f074c966bcc726922d3df813e7abedc76418f4a83841f"
+    },
+    {
+      "path": "/assets/local/map/original/act3autochess_m11-v16.bin.gz",
+      "bytes": 2105451,
+      "sha256": "ee290735300ac497bb366f41b492800c3e91f0bacfb065fa9d31510f76586dd9"
     },
     {
       "path": "/assets/local/map/original/crate-v1.json",
