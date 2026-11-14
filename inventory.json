@@ -1,6 +1,6 @@
 {
-  "files": 29048,
-  "bytes": 918271752,
+  "files": 29058,
+  "bytes": 919385040,
   "missing": [],
   "inventory": [
     {
@@ -145242,6 +145242,56 @@
       "path": "/assets/local/ui/outer/youturn_finger.png",
       "bytes": 413,
       "sha256": "de1743b3dedbcece8f5ef7a838f0528b0e6c9f55b638a14ac4d111433b11eabb"
+    },
+    {
+      "path": "/previews/maps/act3autochess_m01.jpg",
+      "bytes": 103145,
+      "sha256": "a020ce0faa3bd8202d9e55a8bdd09c380ef9a89155c19e8f3c5c0a2fe087fd65"
+    },
+    {
+      "path": "/previews/maps/act3autochess_m02.jpg",
+      "bytes": 99550,
+      "sha256": "01e2c5edd96f9cb3387fd170839afff322e01c611663e3e3b8b07bd637feef59"
+    },
+    {
+      "path": "/previews/maps/act3autochess_m03.jpg",
+      "bytes": 99925,
+      "sha256": "f2a6cec0d2d4b9b605b60806d1bd938774462eeba8292f7b1de3f2bd48cac02d"
+    },
+    {
+      "path": "/previews/maps/act3autochess_m04.jpg",
+      "bytes": 99581,
+      "sha256": "070d12aa00dd71d58de6362a1059f4127de992d606836622d54d07d052c85584"
+    },
+    {
+      "path": "/previews/maps/act3autochess_m05.jpg",
+      "bytes": 116884,
+      "sha256": "3665433852f3888a0b063074138a4b9c230998234327f1bde7e6f397fc31a3b6"
+    },
+    {
+      "path": "/previews/maps/act3autochess_m06.jpg",
+      "bytes": 98798,
+      "sha256": "acac5234d17e6a2e49819f359e5e0645f11e127573e19a8dcdae8d2c1e68cae3"
+    },
+    {
+      "path": "/previews/maps/act3autochess_m09.jpg",
+      "bytes": 102275,
+      "sha256": "6556c98f8dada4459856b2cffdb3670403f1d4955ed20325441b2092f6c1f161"
+    },
+    {
+      "path": "/previews/maps/act3autochess_m10.jpg",
+      "bytes": 143888,
+      "sha256": "0a9c55c58e929bab5491f099bf07bbd81a3398e20f756c88a436fa01a89710d1"
+    },
+    {
+      "path": "/previews/maps/act3autochess_m11.jpg",
+      "bytes": 104439,
+      "sha256": "31f911a6e3d615cd09d80c41981bb07033f67a589f8b496db31e8b1814516cc4"
+    },
+    {
+      "path": "/previews/maps/act3autochess_m12.jpg",
+      "bytes": 144803,
+      "sha256": "9ee2488e9dfe60f9fe7c4d0ab627ab50bb07e9bf8add97d31f72ced793eb4460"
     }
   ]
 }
