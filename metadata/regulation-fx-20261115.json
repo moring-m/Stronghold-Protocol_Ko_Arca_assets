@@ -1,0 +1,17 @@
+{
+  "name": "regulation-fx-20261115",
+  "files": [
+    {
+      "path": "/assets/local/fx/index.json",
+      "bytes": 12382692,
+      "sha256": "7c9fc5925e92755d3f5916d76c509064cca5ab3070340bde1453d4eb20437fff"
+    },
+    {
+      "path": "/assets/local/fx/textures.json",
+      "bytes": 1894513,
+      "sha256": "56aceb5cdd466bb3d8778ba7a48084b5562f977b8b2ff1a7f08e6e4cf7cd0825"
+    }
+  ],
+  "count": 2,
+  "bytes": 14277205
+}

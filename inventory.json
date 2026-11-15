@@ -1,6 +1,6 @@
 {
   "files": 29159,
-  "bytes": 937457417,
+  "bytes": 939667485,
   "missing": [],
   "inventory": [
     {
@@ -3195,8 +3195,8 @@
     },
     {
       "path": "/assets/local/fx/index.json",
-      "bytes": 10383487,
-      "sha256": "f03627d43a9064f0ac5c1c2bb85426d4c803588da832832b8b87b10ced3581dd"
+      "bytes": 12382692,
+      "sha256": "7c9fc5925e92755d3f5916d76c509064cca5ab3070340bde1453d4eb20437fff"
     },
     {
       "path": "/assets/local/fx/mesh/001-0fa3adaf.json",
@@ -135545,8 +135545,8 @@
     },
     {
       "path": "/assets/local/fx/textures.json",
-      "bytes": 1683650,
-      "sha256": "dae5a27cae0b45c4b7d4c4094361d4f4a7038fc125906f997149b10cc0ddb1c0"
+      "bytes": 1894513,
+      "sha256": "56aceb5cdd466bb3d8778ba7a48084b5562f977b8b2ff1a7f08e6e4cf7cd0825"
     },
     {
       "path": "/assets/local/guide/autochess_handbook_1.png",
